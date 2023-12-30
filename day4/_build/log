@@ -1,0 +1,22 @@
+# dune exec day4 --profile release
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/orakmoya/.cache/dune/db
+# Workspace root: /mnt/Btree/Projekti/aoc-ocaml/day4
+# Auto-detected concurrency: 12
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Release
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; installed_env =
+#      map
+#        { "INSIDE_DUNE" : "/mnt/Btree/Projekti/aoc-ocaml/day4/_build/default"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; instrument_with = []
+#  }
+$ /usr/bin/ocamlc.opt -config > /tmp/dune_4845f2_output
